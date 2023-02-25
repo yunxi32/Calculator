@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CZhCalculatorDlg">
+    <Position X="0.75" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CZhCalculatorDlg::__unnamed_enum_0009_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ZhCalculatorDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>WACBIAMgDAYAQMAIBhICAIIgAHQmAEQgAREAKgAYABQ=</HashCode>
+      <FileName>ZhCalculatorDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZhCalculatorApp">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAg=</HashCode>
+      <FileName>ZhCalculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg">
+    <Position X="4" Y="2.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0003_1">
+        <TypeIdentifier>
+          <NewMemberFileName>ZhCalculatorDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ZhCalculatorDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Calculator_Flag">
+    <Position X="7" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAEAQAiAAIAAAAEADAgBAQEAAAAAAARACAAAABA=</HashCode>
+      <FileName>ZhCalculatorDlg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
